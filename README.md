@@ -1,2 +1,2 @@
 # website
-Website of I:kozaeder
+Website of i:kozaeder
